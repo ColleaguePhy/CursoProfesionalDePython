@@ -5,3 +5,13 @@ Culmina tu aprendizaje sobre este vasto lenguaje de programación. Domina los co
 * Crearás decoradores
 * Entenderás qué son los clouseres y scopes
 * Aplicarás tipado estático en Python
+
+
+## Requisitos
+* Curso básico de Python
+* Curso profesional de Git y Github
+* Curso intermedio de Python
+* Curso de POO
+
+## Estructura
+* **Apuntes.md** contiene las notas 'teoricas' del curso.
